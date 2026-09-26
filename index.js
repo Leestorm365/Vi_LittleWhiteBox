@@ -1,3 +1,4 @@
+import './vietnamese-mask.js';
 import { extension_settings } from "../../../extensions.js";
 import { saveSettingsDebounced } from "../../../../script.js";
 import { EXT_ID, extensionFolderPath } from "./core/constants.js";
